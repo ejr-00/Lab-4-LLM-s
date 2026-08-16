@@ -38,6 +38,7 @@ Include:
 4. Suggested Next Step
 
 Use only information supported by the application.
+
 The final loan decision must be made by a human.
 Never recommend approve or reject.
 """
